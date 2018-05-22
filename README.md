@@ -1,4 +1,6 @@
-# TensorApp
+# Basic Tensorflow.js Linear Model App  
+  
+![alt text](https://github.com/abenjamin1313/tensorflow-basic-app/blob/master/pics/image.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
